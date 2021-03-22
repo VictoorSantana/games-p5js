@@ -1,0 +1,16 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "You have downloaded the complete p5.js library ZIP file, yay!",
+  "main": "p5.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {    
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
